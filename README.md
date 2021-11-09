@@ -3,7 +3,7 @@
 ## I'm a beginner developer with knowledge of C++ && React.js
 
 ## Connect with me!
-  [![Gmail Badge](https://img.shields.io/badge/GMAIL-Link-green](mailto:fetisoff.plus@gmail.com)] [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Link-green)](https://www.linkedin.com/in/nikita-fetisoff-80a5231b3) [![Twitter Badge](https://img.shields.io/badge/Twitter-Link-green)](https://twitter.com/Nik58000229)
+  [![Gmail Badge](https://img.shields.io/badge/GMAIL-Link-green)](mailto:fetisoff.plus@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Link-green)](https://www.linkedin.com/in/nikita-fetisoff-80a5231b3) [![Twitter Badge](https://img.shields.io/badge/Twitter-Link-green)](https://twitter.com/Nik58000229)
 <!--
 **OriginatorX/OriginatorX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
