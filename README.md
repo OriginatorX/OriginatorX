@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm a beginner developer with knowledge of <b>C++</b> & React.js
+## I'm a beginner developer with knowledge of C++ && React.js
 
 <!--
 **OriginatorX/OriginatorX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
